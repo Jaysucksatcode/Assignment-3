@@ -1,3 +1,4 @@
+#SCT211-0030/2022 Jayden Mathenge Muriithi
 class simpleCalc:
     def Add(self,num1,num2):
         return num1+num2
